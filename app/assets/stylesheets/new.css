@@ -1,0 +1,45 @@
+.main-title {
+  padding: 0 10px;
+}
+
+body {
+  font-family: verdana, arial, helvetica, sans-serif;
+}
+
+table.outside {
+  padding-left: 30px;
+  width: 100%;
+}
+
+tr.nav {
+  text-align: center;
+}
+
+td.title {
+  word-wrap: break-word;
+  white-space: normal;
+  overflow-wrap: break-word;
+  max-width: 200px;
+}
+td.body  {
+  word-wrap: break-word;
+  white-space: normal;
+  overflow-wrap: break-word;
+  max-width: 600px;
+}
+
+.form {
+  padding-left: 30px;
+}
+.form h1{
+  margin-top: 40px;
+  font-size: 20px;
+}
+
+.form h4 {
+  margin: 20px 0 0 0;
+}
+input[type="submit"] {
+  margin-top: 10px;
+  display: block;
+}
