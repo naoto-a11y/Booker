@@ -1,0 +1,21 @@
+
+.flash{
+  color: green;
+}
+
+main {
+  margin-top: 20px;
+  margin-left: 40px;
+}
+
+.title {
+  margin: 40px 0;
+}
+
+.body {
+  margin: 40px 0;
+}
+
+ .link {
+  margin-left: 20px;
+}
